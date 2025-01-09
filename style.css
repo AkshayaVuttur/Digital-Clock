@@ -1,0 +1,49 @@
+
+@import url('https://fonts.googleapis.com/css2?family=SevenSegmentFont');
+.container{
+    border: 2px black solid; 
+    width: 600px;
+    height:500px;
+    background-color:black;
+    margin:7% 5% 3% 35%;
+    border-radius: 10px;
+
+}
+#sub_container{
+    border:4px #ccc5b9 solid; 
+    width: 450px;
+    height:300px;
+    margin:15% 5% 10% 12%;
+    border-radius: 5px;
+    
+}
+#box{
+    border:1px #ccc5b9 solid; 
+    width: 190px;
+    height:50px;
+    margin:15% 5% 10% 30%;
+    color: red;
+    font-family: 'SevenSegmentFont', sans-serif;
+    font-size: 35px;
+    border-radius: 5px;
+    
+}
+h3{
+    color: black;
+    margin: 100px 150px 0px 820px;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 5px 5px #ccc5b9 ;
+}
+#box2{
+    border:1px #ccc5b9 solid; 
+    width: 190px;
+    height:50px;
+    margin:10% 5% 10% 30%;
+    color: red;
+    font-family: 'SevenSegmentFont', sans-serif;
+    font-size: 35px;
+    border-radius: 5px;
+    
+
+}
